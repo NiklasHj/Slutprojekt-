@@ -1,6 +1,6 @@
 ## C-Nivåprojekt
 
-A-Nivåprojektet är väldigt fritt och passar bäst för den som kan det vi gått igenom i kursen.</br>
+C-Nivåprojektet är väldigt fritt och passar bäst för den som kan det vi gått igenom i kursen.</br>
 Stöttningen man får i arbetet kommer att vara sparsam, exempel på hjälp man kan få: Länkar till material, tips på lösningar.</br>
 
 ### Kriterier
