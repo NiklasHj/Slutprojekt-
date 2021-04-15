@@ -10,6 +10,8 @@ Planeringen skall tydligt redogöra för hur man täknt fördela arbetet över t
 Koden skall vara snygg och städad.
 Koden skall vara noggrant kommenterad och läsbar.
 
+Projektet skall [utvärderas](Utvärdering.md)
+
 ### Förslag på guider
 
 Endless runner: https://www.youtube.com/watch?v=JzOXQ3chF_A&ab_channel=MooICT

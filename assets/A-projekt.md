@@ -12,6 +12,8 @@ Applikationen ska ha ett mycket tydligt och välarbetat grafiskt gränssnitt.
 Det skall finnas en logg över arbetets gång.
 Applikationen ska uttnyttja minst ett annat designmönster utöver MVC.
 
+Projektet skall [utvärderas](Utvärdering.md)
+
 ### Förslag på applikationer
 
 * Schack

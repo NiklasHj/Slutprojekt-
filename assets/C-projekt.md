@@ -11,6 +11,8 @@ Applikationen ska vara välarbetad och strukturerad. (tänk SOLID)
 Applikationen ska ha ett mycket tydligt och välarbetat grafiskt gränssnitt.
 Det skall finnas en logg över arbetets gång.
 
+Projektet skall [utvärderas](Utvärdering.md)
+
 ### Förslag på applikationer
 
 * Pong
