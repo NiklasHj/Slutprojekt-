@@ -13,4 +13,4 @@ Målet är att varje enskilld elev skall planera och utföra och redovisa ett mj
 Redovisningen kan ske i antingen liten grupp eller helklass.
 
 
-Börja [HÄR](Projekt.md)!
+Börja [HÄR](assets/Projekt.md)!
